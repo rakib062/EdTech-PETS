@@ -1,2 +1,2 @@
 # EdTech-PETS
-Code for PETS'22 paper on EdTech Privacy
+Code accompanying the paper "Understanding Utility and Privacy of Demographic Data in Education Technology by Causal Analysis and Adversarial-Censoring" to be published at PETS'22.
